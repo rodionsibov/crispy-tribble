@@ -1,2 +1,1 @@
-# crispy-tribble
-Task Manager - Node.js / Express
+# Task Manager - Node.js / Express

@@ -1,0 +1,25 @@
+{
+  "name": "crispy-tribble",
+  "version": "1.0.0",
+  "description": "Task Manager - Node.js / Express",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rodionsibov/crispy-tribble.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rodionsibov/crispy-tribble/issues"
+  },
+  "homepage": "https://github.com/rodionsibov/crispy-tribble#readme",
+  "dependencies": {
+    "dotenv": "^14.2.0",
+    "express": "^4.17.2",
+    "mongoose": "^6.1.7"
+  }
+}
